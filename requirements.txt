@@ -1,0 +1,7 @@
+python-dotenv
+langchain-core
+langchain-google-genai
+langchain
+todoist-api-python
+pydantic
+tzdata
