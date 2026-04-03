@@ -18,10 +18,10 @@ Instead of manually interacting with a task manager, users can simply chat with 
 
 5.Lightweight and efficient CLI-based interface
 
-🛠️ Tech Stack
 
+
+🛠️ Tech Stack:
 Python
-
 Google Generative AI API
 
 Todoist API
