@@ -7,11 +7,11 @@ SmartList is a command-line application that allows users to manage their tasks 
 Instead of manually interacting with a task manager, users can simply chat with the system, and the application intelligently updates tasks in real time.
 
 🚀 Key Features
-Natural language interaction for task management
-Integration with Todoist for real-time task updates
-AI-powered command interpretation using Google Generative AI
-Supports adding, deleting, and completing tasks
-Lightweight and efficient CLI-based interface
+1.Natural language interaction for task management
+2.Integration with Todoist for real-time task updates
+3.AI-powered command interpretation using Google Generative AI
+4.Supports adding, deleting, and completing tasks
+5.Lightweight and efficient CLI-based interface
 
 🛠️ Tech Stack
 Python
