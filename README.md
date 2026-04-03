@@ -21,6 +21,7 @@ Instead of manually interacting with a task manager, users can simply chat with 
 
 
 🛠️ Tech Stack:
+
 Python
 Google Generative AI API
 
